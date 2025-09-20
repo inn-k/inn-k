@@ -1,4 +1,4 @@
-# 👋 ¡Hola, bienvenido/a a mi perfil!
+# 👋 ¡Hola, bienvenid@ a mi perfil!
 
 🔐 **Analista SOC Jr. | Blue Team · Ciberseguridad | Estudiante de Ciberdefensa**  
 💻 Linux · SIEM · Detección de Amenazas  
