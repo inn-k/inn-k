@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🌟 Sobre mí
-¡Qué alegría que hayas pasado por mi perfil! 🤗  
+Qué alegría que hayas pasado por aca 🤗  
 
 🎓 Soy estudiante de la **Licenciatura en Ciberdefensa (FADENA)** y mi objetivo es desarrollarme como **Analista SOC**.  
 Para potenciar mi formación académica:  
