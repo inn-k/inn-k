@@ -1,4 +1,4 @@
-# 👋 ¡Hola, Bienvenid@ a mi repositorio!
+# 👋 ¡Hola, Bienvenid@ a mis repositorios!
 
 🔐 **Analista SOC Jr. | Blue Team | Ciberseguridad** \
 💻 Linux · SIEM · Análisis de Tráfico · Respuesta a Incidentes
