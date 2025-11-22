@@ -27,23 +27,23 @@ desarrollé ejercicios y simulaciones orientadas a entornos reales SOC.
 
 ---
 
-## 🧠 Habilidades e intereses
+## 🧠 Habilidades
 
 Me caracterizo por ser una persona **analítica, metódica y orientada a
 la mejora continua**.
 
 **Áreas que estudio y practico con frecuencia:** \
 • Seguridad ofensiva básica para fortalecer defensiva (Blue Team
-mindset) \
-• SIEM, detecciones iniciales y análisis de alertas \
-• Tráfico de red y análisis con Wireshark \
-• Scripting en Python y automatización \
-• Gestión y uso de distribuciones Linux orientadas a seguridad \
-• Vulnerabilidades, amenazas y fundamentos de ciberseguridad
+mindset). \
+• SIEM, detecciones iniciales y análisis de alertas. \
+• Tráfico de red y análisis con Wireshark. \
+• Scripting en Python y automatización. \
+• Gestión y uso de distribuciones Linux orientadas a seguridad. \
+• Vulnerabilidades, amenazas y fundamentos de ciberseguridad.
 
 ---
 
-## 🎯 Objetivo profesional
+## 🎯 Objetivo
 
 Estoy buscando mi **primera experiencia en ciberseguridad o sistemas**,
 preferentemente en roles: \
