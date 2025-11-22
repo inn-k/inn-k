@@ -1,14 +1,13 @@
 # 👋 ¡Hola, Bienvenid@ a mis repositorios!
-
-🔐 **Analista SOC Jr. | Blue Team | Ciberseguridad** \
-💻 Linux · SIEM · Análisis de Tráfico · Respuesta a Incidentes
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+🔐 **Analista SOC Jr. | Blue Team | Ciberseguridad** \
+💻 Linux · SIEM · Análisis de Tráfico · Respuesta a Incidentes
 
 ## 🌟 Sobre mí
 
