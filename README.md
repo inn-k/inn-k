@@ -6,8 +6,8 @@
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🔐 **Analista SOC Jr. | Blue Team | Ciberseguridad** \
-💻 Linux · SIEM · Análisis de Tráfico · Respuesta a Incidentes
+**Analista SOC Jr. | Blue Team | Ciberseguridad** \
+Linux · SIEM · Análisis de Tráfico · Respuesta a Incidentes
 
 ## 🌟 Sobre mí
 
@@ -19,7 +19,7 @@ Mi enfoque está en adquirir experiencia práctica y profundizar en los
 fundamentos técnicos que sostienen la detección y respuesta ante
 incidentes.
 
-🔎 Para fortalecer mis habilidades: \
+**Para fortalecer mis habilidades:** \
 • Trabajo en **laboratorios propios**, utilizando máquinas virtuales,
 entornos Linux y herramientas de análisis. \
 • Practico activamente en **Hack The Box** y **TryHackMe**. \
@@ -31,7 +31,7 @@ desarrollé ejercicios y simulaciones orientadas a entornos reales SOC.
 Me caracterizo por ser una persona **analítica, metódica y orientada a
 la mejora continua**.
 
-📌Áreas que estudio y practico con frecuencia: \
+**Áreas que estudio y practico con frecuencia:** \
 • Seguridad ofensiva básica para fortalecer defensiva (Blue Team
 mindset) \
 • SIEM, detecciones iniciales y análisis de alertas \
