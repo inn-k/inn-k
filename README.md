@@ -6,9 +6,6 @@
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Analista SOC Jr. | Blue Team | Ciberseguridad** \
-Linux · SIEM · Análisis de Tráfico · Respuesta a Incidentes
-
 ---
 
 ## 🌟 Sobre mí
