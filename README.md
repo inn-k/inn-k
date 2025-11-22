@@ -1,4 +1,4 @@
-# 👋 ¡Hola, Bienvenid@ a mis repositorios!
+# 👋 ¡Hola, bienvenid@ a mis repositorios!
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
