@@ -9,6 +9,8 @@
 **Analista SOC Jr. | Blue Team | Ciberseguridad** \
 Linux · SIEM · Análisis de Tráfico · Respuesta a Incidentes
 
+---
+
 ## 🌟 Sobre mí
 
 Soy estudiante de la **Licenciatura en Ciberdefensa (FADENA)** y
@@ -26,6 +28,8 @@ entornos Linux y herramientas de análisis. \
 • Formé parte del **Bootcamp Analista SOC Nivel 1 - Comunidad DOJO**, donde
 desarrollé ejercicios y simulaciones orientadas a entornos reales SOC. 
 
+---
+
 ## 🧠 Habilidades e intereses
 
 Me caracterizo por ser una persona **analítica, metódica y orientada a
@@ -40,6 +44,8 @@ mindset) \
 • Gestión y uso de distribuciones Linux orientadas a seguridad \
 • Vulnerabilidades, amenazas y fundamentos de ciberseguridad
 
+---
+
 ## 🎯 Objetivo profesional
 
 Estoy buscando mi **primera experiencia en ciberseguridad o sistemas**,
@@ -52,7 +58,11 @@ Mi objetivo es incorporarme a un equipo donde pueda **aprender, aportar
 y crecer**, siempre desde un enfoque responsable, curioso y comprometido
 con la seguridad.
 
+---
+
 ## 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ingrid-k)\
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingridkaufmannok@gmail.com)
+
+---
